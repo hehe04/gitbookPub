@@ -2,8 +2,8 @@
 
 * [Initial page](README.md)
 
-## The Go Programming
+## The Go Programming Language
 
-* [1](the-programming/untitled/README.md)
-  * [1.1](the-programming/untitled/1.1.md)
+* [前言](the-programming/untitled.md)
+* [3. 基础数据类型](the-programming/3.-ji-chu-shu-ju-lei-xing.md)
 
