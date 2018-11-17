@@ -10,4 +10,5 @@
 * [5. 函数](the-programming/5.-han-shu.md)
 * [6. 方法](the-programming/6.-fang-fa.md)
 * [7. 接口](the-programming/7.-jie-kou.md)
+* [8.4 Groutins\_channel](the-programming/8.4-groutins_channel.md)
 
