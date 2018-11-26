@@ -12,4 +12,5 @@
 * [7. 接口](the-programming/7.-jie-kou.md)
 * [8. Goroutines和Channels（一）](the-programming/8.-goroutines-he-channels.md)
 * [8. Groutins和channels （二）](the-programming/8.4-groutins_channel.md)
+* [9. 基于共享变量的并发](the-programming/9.-ji-yu-gong-xiang-bian-liang-de-bing-fa.md)
 
